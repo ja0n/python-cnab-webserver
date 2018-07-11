@@ -1,0 +1,2 @@
+flask==1.0.2
+git+git://github.com/ja0n/python-cnab@feature/lote-pagamento-banco-brasil#egg=python3-cnab
